@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 78.8,
+        "lat": 28.6333
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 15.15,
+        "feels_like": 13.35,
+        "temp_min": 15.15,
+        "temp_max": 15.15,
+        "pressure": 1015,
+        "humidity": 24,
+        "sea_level": 1015,
+        "grnd_level": 992
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.4,
+        "deg": 64,
+        "gust": 1.48
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1733587768,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1733534694,
+        "sunset": 1733572083
+    },
+    "timezone": 19800,
+    "id": 1275646,
+    "name": "Bilāri",
+    "cod": 200
+}
